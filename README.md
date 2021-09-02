@@ -33,3 +33,5 @@ Following improvements are identified for future release.
 2. Customer will be able to do transfers between accounts
 3. customer can answer Security Questions if they forgot the PIN
 
+## How to Run
+1. Run as a Java Application in Command Prompt
